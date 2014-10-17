@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mrd:home|Door43 (mrd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mrd|d43-mrd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mrd/archive/master.zip|d43-mrd.zip]]
+
+**Recent Changes**
+{{changes>ns = mrd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mrd|Ethnologue data]]
+
